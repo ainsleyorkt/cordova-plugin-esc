@@ -1,6 +1,1 @@
-<widget id="com.example.plugin" version="1.0.0">
-    <name>ESC Plugin</name>
-    <description>A Cordova plugin for ESC SDK</description>
-    <license>Apache 2.0</license>
-    <keywords>cordova,plugin,esc</keywords>
-</widget>
+<plugin>...</plugin>
